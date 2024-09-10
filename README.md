@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name Apurva. I am based in Berlin,Germany. Exploring raw data in tech-world and Europe in real-world!</p>
+<p align="left">My name is Apurva. I am based in Berlin,Germany. Exploring raw data in tech-world and Europe in real-world!</p>
 
 ###
 
