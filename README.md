@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi there, I'm Apurva Chavan 👋 </h1>
 
 ###
 
-<p align="left">My name is Apurva. I am based in Berlin,Germany. Exploring raw data in tech-world and Europe in real-world!</p>
+<p align="left"> Data Scientist | 🧠 ML Enthusiast | 📊 Power BI | 💬 Always Learning </p>
 
 ###
 
@@ -10,7 +10,14 @@
 
 ###
 
-<p align="left">✨ Creating data-driven insights since 2020 <br>📚 I'm currently learning M.Sc Data Analytics in Berlin,Germany. I like to work with big data (hadoop ,spark, Kafka )<br>🎯 Goals: To use and valid my long learned data manipulation skills<br>🎲 Fun fact: I would rather die of passion than of boredom</p>
+<p align="left">✨ Creating data-driven insights since 2020 <br>📚 I'm currently learning M.Sc Data Analytics in Berlin,Germany.<br> 
+🔧 Tools & Technologies <br>
+   ● 🐍 Python (Pandas, NumPy, Scikit-learn) <br>
+   ● 📊 Power BI, Excel <br>
+   ● 🧠 Machine Learning & Deep Learning <br>
+   ● 🌐 SQL, Git, GitHub <br>
+   ● 💽 Big Data ( Hadoop, Spark, Hive) <br>
+🎯 Goals: To use and valid my long learned data manipulation skills<br>🎲 Fun fact: I would rather die of passion than of boredom</p>
 
 ###
 
